@@ -1,0 +1,12 @@
+.image-home {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: auto; 
+}
+
+.div-image{
+    width: 70%;
+    margin: 0 auto;
+    background-color: lavender;
+}

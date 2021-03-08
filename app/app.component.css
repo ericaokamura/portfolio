@@ -1,0 +1,10 @@
+.main-page {
+    display: inline-flexbox;  
+    background-color: #ce81a5;  
+}
+
+.image-main-page{
+    display: block;
+    margin: 0 auto;
+}
+

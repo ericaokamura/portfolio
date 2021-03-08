@@ -1,0 +1,19 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.toolbar-style {
+  display: inline-flexbox;
+  background-color: #35548a;
+  width: 70%;
+  margin: 0 auto;
+  
+}
+
+.example-icon {
+  background-color: #35548a;
+}
+
+mat-icon {
+  color: #FFFFFF;
+}

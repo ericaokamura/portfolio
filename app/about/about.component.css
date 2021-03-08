@@ -1,0 +1,14 @@
+.about-header {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+mat-grid-tile {
+    background-color: lavender;
+}
+
+.container-about {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
